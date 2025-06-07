@@ -10,7 +10,7 @@ Integrantes del grupo =
 Descripcion de las actividades realizadas en el archivo Docx 'Busqueda y Ordenamiento en algoritmos en Python'.
 Ejemplos de casos practicos en los archivos .py del directorio 'Practicas'.
 
-LINK AL VIDEO DE YOUTUBE = https://www.youtube.com/watch?v=MZJMgwtW9B4
+LINK AL VIDEO = https://drive.google.com/file/d/1q7vnUifp1ac7c749kb_baUXO_YcP9Mh0/view?usp=drive_link
 
 Objetivos del trabajo
 
